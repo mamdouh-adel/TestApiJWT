@@ -1,0 +1,6 @@
+POST https://localhost:7255/api/Auth/register
+Content-Type: "application/json"
+
+{
+
+}
